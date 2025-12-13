@@ -74,3 +74,7 @@ small,
 .text-small {
   font-size: 0.64em;
 }
+
+.hello {
+  text-align: left;
+}
