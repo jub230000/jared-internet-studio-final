@@ -136,10 +136,14 @@ a:hover {
 }
 
 .hellop {
-  text-align: left;
+  text-align: center;
   padding-bottom: 900px;
 }
 
 .guitars {
   float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  padding-right: 20px;
+  padding-top: 20px;
 }
