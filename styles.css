@@ -89,3 +89,9 @@ small,
   padding: 10px 20px;
 }
 
+.box {
+  display: block;
+  border: 3px;
+  border-color: black;
+  background-color: grey;
+}
