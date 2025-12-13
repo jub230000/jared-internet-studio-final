@@ -78,10 +78,6 @@ small,
   font-size: 0.64em;
 }
 
-.hello {
-  text-align: left;
-  padding-bottom: 200px;
-}
 
 .FlexContainer {
   display: flex;
@@ -117,10 +113,26 @@ a:hover {
   text-decoration: none;
 }
 
+.guitar {
+  float: left;
+  margin-right: 15px;
+  margin-bottom 15px;
+}
+
 .indexh {
   text-align: center;
 }
 
 .indexp {
   text-align: center;
+  padding-bottom: 200px;
+}
+
+.helloh {
+  text-align: right;
+}
+
+.hellop {
+  text-align: right;
+  padding-bottom: 200px;
 }
