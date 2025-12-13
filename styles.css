@@ -84,6 +84,7 @@ small,
 
 .FlexContainer {
   display: flex;
+  justify-content: space-between;
   justify-content: center;
   background-color: blanchedalmond;
   padding: 10px 20px;
@@ -91,7 +92,9 @@ small,
 
 .box {
   display: block;
-  border: 3px;
+  border-width: 3px;
   border-color: black;
   background-color: grey;
+  padding-left: 25px;
+  padding-right: 25px;
 }
