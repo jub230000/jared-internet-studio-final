@@ -86,15 +86,18 @@ small,
   display: flex;
   justify-content: space-between;
   justify-content: center;
-  background-color: blanchedalmond;
   padding: 10px 20px;
 }
 
 .box {
   display: block;
   border-width: 3px;
-  border-color: black;
-  background-color: grey;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+a {
+  font-family: 'Akshar';
+  font-style: bold;
+  font-size: 30px;
 }
