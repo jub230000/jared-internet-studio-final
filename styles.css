@@ -100,4 +100,10 @@ a {
   font-family: 'Akshar';
   font-style: bold;
   font-size: 30px;
+  color: darkslategrey;
+}
+
+a:hover {
+  color: black;
+  transform: scale(1.5em);
 }
