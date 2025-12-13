@@ -117,6 +117,8 @@ a:hover {
   float: left;
   margin-right: 15px;
   margin-bottom: 15px;
+  padding-left: 20px;
+  padding-top: 20px;
 }
 
 .indexh {
@@ -130,9 +132,10 @@ a:hover {
 
 .helloh {
   text-align: right;
+  padding-top: 30px;
 }
 
 .hellop {
   text-align: right;
-  padding-bottom: 200px;
+  padding-bottom: 1000px;
 }
