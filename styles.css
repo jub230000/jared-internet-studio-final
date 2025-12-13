@@ -131,11 +131,11 @@ a:hover {
 }
 
 .helloh {
-  text-align: right;
+  text-align: center;
   padding-top: 30px;
 }
 
 .hellop {
-  text-align: right;
-  padding-bottom: 1000px;
+  text-align: left;
+  padding-bottom: 900px;
 }
