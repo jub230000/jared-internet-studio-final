@@ -46,6 +46,9 @@ h5 {
   font-family: 'Alike' 'Open Sans', sans-serif;
   font-weight: true;
   line-height: 1.15;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 h1,
