@@ -139,3 +139,7 @@ a:hover {
   text-align: left;
   padding-bottom: 900px;
 }
+
+.guitars {
+  float: right;
+}
