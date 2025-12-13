@@ -80,6 +80,7 @@ small,
 
 .hello {
   text-align: left;
+  padding-bottom: 200px;
 }
 
 .FlexContainer {
@@ -107,4 +108,19 @@ a {
 a:hover {
   color: black;
   transform: scale(1.5em);
+}
+
+.reach {
+  font-family: 'Akshar';
+  color: darkslategrey;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+.indexh {
+  text-align: center;
+}
+
+.indexp {
+  text-align: center;
 }
