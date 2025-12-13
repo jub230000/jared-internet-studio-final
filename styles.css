@@ -81,3 +81,11 @@ small,
 .hello {
   text-align: left;
 }
+
+.FlexContainer {
+  display: flex;
+  justify-content: center;
+  background-color: blanchedalmond;
+  padding: 10px 20px;
+}
+
