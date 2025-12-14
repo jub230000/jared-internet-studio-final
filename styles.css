@@ -156,3 +156,14 @@ a:hover {
 .footer {
   text-align: center;
 }
+
+/*below is for about me page*/
+
+.aboutmetitle {
+  padding-bottom: 50px;
+}
+
+.aboutme {
+  justify-content: center;
+  text-align: center;
+}
