@@ -164,6 +164,10 @@ a:hover {
 }
 
 .aboutme {
-  justify-content: center;
+  text-align: center;
+  float: center;
+}
+
+img {
   text-align: center;
 }
